@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/finsight_ai.egg-info/PKG-INFO
+src/finsight_ai.egg-info/SOURCES.txt
+src/finsight_ai.egg-info/dependency_links.txt
+src/finsight_ai.egg-info/top_level.txt
+src/ingestion/chunker.py
+src/ingestion/edgar_client.py
+src/ingestion/market_data.py
+src/ingestion/run_ingest.py
+src/ingestion/section_parser.py
+src/retrieval/db.py
+src/retrieval/embed_and_load.py
+src/retrieval/hybrid_search.py
+tests/test_retrieval.py

@@ -10,3 +10,6 @@ lxml==5.2.2
 pandas==2.2.2
 sec-edgar-downloader==5.0.2
 tiktoken==0.7.0
+
+sentence-transformers==3.0.1
+rank-bm25==0.2.2
